@@ -1,0 +1,10 @@
+[logging]
+log_path=
+log_level=INFO
+log_format=%(asctime)s - %(levelname)s - %(message)s
+
+[general]
+bucketname  = 
+uploading_folder = 
+aws_access_key_id=
+aws_secret_access_key=
